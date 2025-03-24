@@ -1,5 +1,5 @@
 # -Doctor-Patient-Portal-JavaWebProject
-# Doctor-Patient Portal
+
 
 ## Overview
 The *Doctor-Patient Portal* is a web-based application developed in *Java (Servlets, JSP, DAO)* with *Maven* for managing doctor-patient interactions efficiently. The system enables patients to book appointments, doctors to manage their schedules, and administrators to oversee user management.
