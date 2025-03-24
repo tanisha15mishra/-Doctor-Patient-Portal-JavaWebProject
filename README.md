@@ -54,7 +54,5 @@ The *Doctor-Patient Portal* is a web-based application developed in *Java (Servl
    
 
 ## Contributors
-- [TANISHA MISHRA](https://github.com/tanisha15mishra))
+- TANISHA MISHRA (https://github.com/tanisha15mishra))
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
